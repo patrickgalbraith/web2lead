@@ -1,0 +1,16 @@
+{
+    "name": "patrickgalbraith/web2lead",
+    "authors": [
+		{
+            "name": "Felix Middendorf"
+        },
+        {
+            "name": "Patrick Galbraith"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "lib"
+        ]
+    }
+}
